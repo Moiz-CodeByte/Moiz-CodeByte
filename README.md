@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Moiz
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Bahawalpur, Pakistan.
+🌍  I am a full-stack Developer based in Bahawalpur, Pakistan.
 <br/>
 
 ### Skills
