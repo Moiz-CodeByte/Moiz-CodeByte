@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### GitHub Profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Moiz-CodeByte" alt="Moiz-CodeByte" /></a> </p>
+<p align="left"> <a href="https://abdulmoiz.net"><img src="https://github-profile-trophy.vercel.app/?username=Moiz-CodeByte&theme=algolia" alt="Moiz-CodeByte" /></a> </p>
 
 
 
