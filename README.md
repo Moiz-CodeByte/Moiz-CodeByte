@@ -18,11 +18,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </div>
 
+### Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moiz-CodeByte&label=Profile%20views&color=0e75b6&style=flat" alt="Moiz-CodeByte" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moiz-CodeByte&" alt="Moiz-CodeByte" /></p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moiz-CodeByte&show_icons=true&locale=en&layout=compact" alt="Moiz-CodeByte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moiz-CodeByte&show_icons=true&locale=en" alt="Moiz-CodeByte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moiz-CodeByte&" alt="Moiz-CodeByte" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-rfgul&label=Profile%20views&color=0e75b6&style=flat" alt="dev-rfgul" /> </p>
 
