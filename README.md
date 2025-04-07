@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Moiz-CodeByte&label=Profile%20views&color=0e75b6&style=flat" alt="Moiz-CodeByte" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moiz-CodeByte&show_icons=true&locale=en&layout=compact&theme=dark" alt="Moiz-CodeByte" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moiz-CodeByte&show_icons=true&locale=en&theme=dark" alt="Moiz-CodeByte" /></p>
-<p>&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Moiz-CodeByte&theme=dark)](https://abdulmoiz.net)</p>
+<p>&nbsp; <img align="center" src="https://streak-stats.demolab.com?user=Moiz-CodeByte&theme=dark" alt="Moiz-CodeByte" /></p>
 
 
 ### GitHub Profile Trophies
