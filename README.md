@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=wordpress,php)](https://abdulmoiz.net) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://abdulmoiz.net) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://abdulmoiz.net) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://abdulmoiz.net) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,next)](https://abdulmoiz.net) &nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://abdulmoiz.net) 
 <br/>
 
